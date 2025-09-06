@@ -1,0 +1,12 @@
+file_format: "1"
+id: dactyl46
+name: dactyl46
+type: shield
+url: https://github.com/Arya-Sourav/zmk-dactyl-46_6
+requires: [nice_nano_v2]
+exposes: [i2c_oled]
+features:
+  - keys
+siblings:
+  - dactyl46_left
+  - dactyl46_right
